@@ -16,7 +16,7 @@ Este manual apresenta as instruções de instalação, configuração e operaç�
 ## 2. Tela Inicial e Configuração da Função Objetivo
 Ao iniciar o simulador e pressionar o botão **"Começar"**, o usuário tem acesso ao painel de configuração da função objetivo e da malha tridimensional:
 
-![Painel de seleção e configuração da função objetivo](img/tela_funcao.png)
+![Painel de seleção e configuração da função objetivo](image/tela_funcao.png)
 
 1. **Seleção de Função Predefinida:** Escolha entre as oito funções clássicas (*Sphere*, *Rastrigin*, *Ackley*, *Rosenbrock*, *Griewank*, *Himmelblau*, *Booth* e *Beale*). Ao selecionar uma função, os limites do domínio e os parâmetros visuais recomendados são preenchidos automaticamente.
 2. **Inserção de Função Customizada:** Para avaliar uma expressão própria, digite a fórmula no campo de expressão seguindo as regras de sintaxe:

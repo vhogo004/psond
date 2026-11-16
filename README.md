@@ -7,7 +7,8 @@ Este manual apresenta as instruções de instalação, configuração e operaç�
 ---
 
 ## 1. Requisitos do Sistema e Execução
-* **Sistema Operacional:** Windows 10 ou Windows 11 (64 bits).
+* **Sistema Operacional:** Windows 10 ou Windows 11 (64 bits), ou Ubuntu 22.04 LTS ou superior (ou distribuições equivalentes de 64 bits).
+
 * **Hardware Recomendado:** Processador dual-core ou superior, mínimo de $4\text{ GB}$ de memória RAM e placa gráfica com suporte a DirectX 11 ou DirectX 12.
 * **Execução:** Não requer instalação de dependências externas. Basta rodar o executável disponibilizado na aba *Releases*, ou extrair o arquivo compactado e executar `PSOnD.exe`.
 

@@ -1,6 +1,6 @@
 # Manual do Usuário — PSOnD
 
-Este manual apresenta as instruções de instalação, configuração e operação do simulador tridimensional **PSOnD**, desenvolvido para a visualização e experimentação do algoritmo *Particle Swarm Optimization* (PSO). Esse manual também está disponível em PDF **[AQUI](https://github.com/vhogo004/psond/blob/main/manual_do_usuario.pdf)**
+Este manual apresenta as instruções de instalação, configuração e operação do simulador tridimensional **PSOnD**, desenvolvido para a visualização e experimentação do algoritmo *Particle Swarm Optimization* (PSO). Esse manual também está disponível em PDF **[AQUI](https://github.com/vhogo004/psond/blob/main/manual_do_usuario.pdf)**.
 
 > 📥 **Download:** Para baixar o simulador pronto para uso, acesse a aba **[Releases](https://github.com/vhogo004/psond/releases/tag/v1.0)** na lateral direita do repositório.
 
